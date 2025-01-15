@@ -1,2 +1,11 @@
 homeassistant/home-assistant:latest 
 mysql:latest
+jeessy/ddns-go:latest
+linuxserver/heimdall:latest
+linuxserver/jellyfin:latest
+luodaoyi/kms-server:latest
+nodered/node-red:latest
+portainer/portainer:latest
+linuxserver/transmission:latest
+linuxserver/sonarr:latest
+wiznote/wizserver:latest
