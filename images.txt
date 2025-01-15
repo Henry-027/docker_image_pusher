@@ -1,3 +1,2 @@
-viktorstrate/photoview:latest   #刚好试一试
 homeassistant/home-assistant:latest 
 mysql:latest
