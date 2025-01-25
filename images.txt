@@ -9,3 +9,4 @@ portainer/portainer:latest
 linuxserver/transmission:latest
 linuxserver/sonarr:latest
 wiznote/wizserver:latest
+nextcloud/piwigo:latest
